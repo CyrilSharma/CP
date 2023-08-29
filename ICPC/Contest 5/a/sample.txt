@@ -1,0 +1,4 @@
+3 100
+Squidward 5 10
+$GME 100 99
+PinkPrincess 1000 1000

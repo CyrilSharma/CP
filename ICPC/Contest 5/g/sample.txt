@@ -1,0 +1,3 @@
+2
+100 This famous building in New York has its very own zipcode, 10118. (Empire State Building)
+400 This war in August of 1896 is the shortest recorded war in history, lasting just around 40 minutes. (Anglo-Zanzibar War)
